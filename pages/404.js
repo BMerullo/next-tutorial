@@ -1,0 +1,7 @@
+import React from "react";
+
+export const PageNotFOund = () => {
+  return <h1>404 Page with all the custom styling necessary</h1>;
+};
+
+export default PageNotFOund;
